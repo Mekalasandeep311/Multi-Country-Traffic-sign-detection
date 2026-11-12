@@ -1,0 +1,252 @@
+names:
+  0: Accident
+  1: Advance Directional Sign
+  2: Ahead only
+  3: Ambulance
+  4: Animals
+  5: Barrier
+  6: Bicycle stand
+  7: Bus Terminus
+  8: Bus lane (hours)
+  9: Bus stop
+  10: Caution
+  11: Caution Road Works Ahead
+  12: Children
+  13: Confirmation Directional Sign
+  14: Congestion
+  15: Cross junction
+  16: Curve Alignment Markers
+  17: Designated pedestrian crossing
+  18: Detour (in direction indicated)
+  19: Detour Ahead
+  20: Dual-carriageway ends
+  21: Elderly or handicapped pedestrians
+  22: Electronic Road Pricing (ERP) Zone ahead
+  23: End of expressway
+  24: End of school zone
+  25: Exclusive left turn and shared left turn lane ahead
+  26: Exit Closed Ahead
+  27: Expressway ahead
+  28: Fire Engine
+  29: Flashing Amber Cross (caution, possible obstruction)
+  30: Four waiting lanes ahead
+  31: Gantry Sign
+  32: Gated level crossing
+  33: Give Way
+  34: Give Way to pedestrians
+  35: Give-way to buses exiting
+  36: Green Arrow (lane open)
+  37: Height limit (4.5m)
+  38: Intermediate Sign
+  39: Keep Left Unless Overtaking
+  40: Keep left
+  41: Lane Reduction (lane 3)
+  42: Lane Reduction (lane 4)
+  43: Lanes merging
+  44: Left Turn on Red
+  45: Left bend
+  46: Light signals ahead
+  47: Low flying aircraft ahead
+  48: Mandatory Give-Way to Buses
+  49: Merging traffic
+  50: Must Exit
+  51: No entry for all vehicles
+  52: No entry for bicycles
+  53: No entry for lorries
+  54: No entry for motorcycles
+  55: No entry for motorcycles and pedal cycles
+  56: No entry for pedestrians and pedal- cycles
+  57: No entry for vehicles carrying dangerous goods
+  58: No entry for vehicles with 3 or more axles
+  59: No left turn
+  60: No overtaking
+  61: No parking of bicycles
+  62: No right turn
+  63: No sounding of horn
+  64: No stopping
+  65: No through road (road ends in short distance)
+  66: No through road (road on right does not lead to another road)
+  67: No waiting
+  68: No waiting & No loading & unloading
+  69: One-way street
+  70: One-way traffic
+  71: Parking Paid
+  72: Parking Reinforcement Camera
+  73: Pedestrian crossing ahead
+  74: Pedestrian crossing prohibition
+  75: Pedestrian overpass
+  76: Pedestrian underpass
+  77: Plant Watering
+  78: Rain shelter for motorcyclists
+  79: Raised zebra crossing ahead
+  80: Recommended Speed
+  81: Red Cross (lane closed)
+  82: Red Light Camera ahead
+  83: Reduce Speed Now
+  84: Right Turn (for specific vehicles)
+  85: Right bend
+  86: Road Closure (with time)
+  87: Road Sweeping
+  88: Road hump ahead
+  89: Road leading to quay, river bank or sea
+  90: Road narrows on both sides
+  91: Road narrows on one side (left)
+  92: Road narrows on one side (right)
+  93: Roadside Variable Message Sign (RVMS)
+  94: Roadworks
+  95: Roundabout
+  96: Series of bends
+  97: Sharp deviation
+  98: Side road (from left)
+  99: Side road (from right)
+  100: Single Lane Traffic
+  101: Slippery road
+  102: Slow
+  103: Speed Check Area
+  104: Speed Regulating Strips Ahead
+  105: Speed limit 40 km
+  106: Speed limit 50 km
+  107: Speed limit 60 km
+  108: Speed limit 70 km
+  109: Speed limit 80 km
+  110: Speed limit 90 km
+  111: Split traffic
+  112: Staggered junction
+  113: Start of expressway
+  114: Start of school zone
+  115: Steep downward slope
+  116: Steep upward slope
+  117: Stop
+  118: Stop for children
+  119: T junction
+  120: Taxi stand
+  121: Taxi stop
+  122: Tow Away Zone
+  123: Traffic Information Display (TID)
+  124: Traffic Sign Display (TSD)
+  125: Traffic signals operating hours
+  126: Travel Time Display (TTD)
+  127: Tree Pruning
+  128: Tunnel Ahead
+  129: Turn left ahead
+  130: Turn left only
+  131: Turn on lights and FM Radio
+  132: Turn right ahead
+  133: Turn right only
+  134: Turning lanes ahead
+  135: Two-way traffic across one-way carriageway
+  136: Two-way traffic ahead
+  137: U-turn ahead
+  138: U-turn ahead from opposite direction
+  139: U-turn facility ahead
+  140: U-turn sign with vehicle weight restriction
+  141: Uneven road
+  142: Ungated level crossing
+  143: Vehicle Breakdown
+  144: Vehicle breakdown sign
+  145: Waiting Area for Motorycyclists
+  146: Waiting lanes ahead
+  147: Weight limit (10 tonnes)
+  148: Wheel Clamp Zone
+  149: White walking sticks
+  150: Width limit (2.3m)
+  151: Work Access
+  152: Works Ahead
+  153: Y junction (from left)
+  154: Y junction (from right and left)
+  155: Y junction (from right)
+  156: Lane Shift Right
+  157: No Parking
+  158: No riding of pedal-cycles
+folders:
+  Advance Directional Sign (non-expressway): 1
+  Bus Terminus: 7
+  Bus lane (hours): 8
+  Bus stop: 9
+  Caution: 10
+  Caution Road Works Ahead: 11
+  Children: 12
+  Confirmation Directional Sign (non-expressway): 13
+  Curve Alignment Markers: 16
+  Designated pedestrian crossing: 17
+  Detour (in direction indicated): 18
+  Detour Ahead: 19
+  Elderly or handicapped pedestrians: 21
+  Electronic Road Pricing (ERP) Zone ahead: 22
+  End of expressway: 23
+  End of school zone: 24
+  Four waiting lanes ahead: 30
+  Give Way: 33
+  Give Way to pedestrians: 34
+  Give-way to buses exiting: 35
+  Height limit (4.5m): 37
+  Intermediate Sign: 38
+  Keep left: 40
+  Lane Shift Right: 156
+  Lanes merging: 43
+  Left bend: 45
+  Light signals ahead: 46
+  Low flying aircraft ahead: 47
+  Mandatory Give-Way to Buses: 48
+  Merging traffic: 49
+  No Parking: 157
+  No entry for all vehicles: 51
+  No entry for lorries: 53
+  No entry for motorcycles: 54
+  No entry for motorcycles and pedal cycles: 55
+  No left turn: 59
+  No overtaking: 60
+  No riding of pedal-cycles: 158
+  No right turn: 62
+  No stopping: 64
+  No through road (road ends in short distance): 65
+  No waiting: 67
+  No waiting & No loading & unloading: 68
+  One-way street: 69
+  One-way traffic: 70
+  Parking Paid: 71
+  Parking Reinforcement Camera: 72
+  Pedestrian crossing ahead: 73
+  Pedestrian crossing prohibition: 74
+  Pedestrian overpass: 75
+  Pedestrian underpass: 76
+  Rain shelter for motorcyclists: 78
+  Raised zebra crossing ahead: 79
+  Reduce Speed Now: 83
+  Right Turn (for specific vehicles): 84
+  Right bend: 85
+  Road Closure (with time): 86
+  Road hump ahead: 88
+  Road narrows on one side (left): 91
+  Road narrows on one side (right): 92
+  Roundabout: 95
+  Series of bends: 96
+  Side road (from left): 98
+  Slow: 102
+  Speed Regulating Strips Ahead: 104
+  Speed limit 40 km: 105
+  Speed limit 50 km: 106
+  Speed limit 60 km: 107
+  Speed limit 70 km: 108
+  Split traffic: 111
+  Steep downward slope: 115
+  Stop: 117
+  T junction: 119
+  Taxi stand: 120
+  Taxi stop: 121
+  Travel Time Display (TTD): 126
+  Turn left ahead: 129
+  Turn left only: 130
+  Turn right ahead: 132
+  Turn right only: 133
+  Turning lanes ahead: 134
+  Two-way traffic ahead: 136
+  U-turn facility ahead: 139
+  U-turn sign with vehicle weight restriction: 140
+  Waiting Area for Motorycyclists: 145
+  Work Access: 151
+  Works Ahead: 152
+excluded:
+- Road Signs
+- No U-Turn
+- Shared Track

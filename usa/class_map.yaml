@@ -1,0 +1,421 @@
+names:
+  0: Stop
+  1: Stop, Puerto Rico (PARE)
+  2: Give way (Yield)
+  3: Yield to pedestrians
+  4: All way plate
+  5: Yield for pedestrians in crosswalk, NY
+  6: Stop for pedestrians in crosswalk, NY
+  7: Stop for pedestrians in crosswalk, Washington D.C.
+  8: Stop for pedestrians in crosswalk, Maryland
+  9: Maximum speed (miles per hour)
+  10: Night speed limit
+  11: Town speed limit, NY
+  12: Speed limit zone ahead, California
+  13: End speed limit, NY
+  14: End speed limit, Delaware
+  15: Minimum speed limit
+  16: No right turn
+  17: No left turn
+  18: No U-turn
+  19: No U-turn, left turn on green arrow only, California
+  20: Right turn only, Delaware
+  21: Turn only lanes
+  22: Bike lane
+  23: Bike lane, bikes only, NY
+  24: Only 2 or more persons per vehicle (HOV)
+  25: Do not pass
+  26: Keep right except to pass
+  27: Keep right
+  28: Keep left
+  29: Keep right (narrow version)
+  30: Do not enter
+  31: No large trucks
+  32: No bicycles
+  33: Bicycle wrong way
+  34: Bike path (no motor vehicles)
+  35: One way (vertical sign)
+  36: One way (horizontal sign)
+  37: One way, Puerto Rico (TRANSITO)
+  38: Divided highway
+  39: Parking with time restrictions
+  40: Parking with time restrictions, California
+  41: Parking with time and permit restrictions, Seattle
+  42: Parking with time restrictions, NY
+  43: Parking with time and permit restrictions, San Francisco
+  44: Parking with time restrictions, Maryland
+  45: No parking
+  46: No parking, California
+  47: No parking, NY
+  48: No parking, Pennsylvania
+  49: No parking with restrictions, NY
+  50: No parking tow zone, Chicago
+  51: No parking bus stop
+  52: No standing any time
+  53: No standing any time, NY
+  54: No standing bus stop, Philadelphia
+  55: No standing, bus stop with bus route, NY
+  56: No standing with time restrictions, Washington D.C.
+  57: No standing with time restrictions, NY (Farmers Market)
+  58: No standing cars, Baltimore
+  59: No stopping any time, NY
+  60: No stopping any time, Philadelphia
+  61: No stopping any time, California
+  62: No stopping anytime tow away, San Francisco
+  63: No stopping with time restrictions, NY
+  64: No stops tow away zone, Seattle
+  65: No standing except delivery trucks time restricted, NY
+  66: No stopping any time, NY (horizontal sign)
+  67: No parking (symbol)
+  68: No parking on pavement
+  69: Walk on left facing traffic
+  70: Cross only at cross walks
+  71: No hitch hiking
+  72: Crosswalk signal instructions
+  73: Stop for stopped school bus, NY
+  74: No pedestrian crossing
+  75: Bicycles left; pedestrians right
+  76: Turning vehicles yield to pedestrians
+  77: Red light photo violation fine sign, California
+  78: Stop here on red, Pennsylvania
+  79: No turn on red arrow, Maryland
+  80: Bicycles to request green wait on line
+  81: Road closed
+  82: Road closed ahead
+  83: Bridge out ahead
+  84: School
+  85: School speed limit ahead
+  86: End school zone
+  87: School speed limit when flashing
+  88: School zone speed limit sign, Arizona
+  89: School bus stop ahead (fluorescent green)
+  90: School bus stop ahead (yellow)
+  91: School bus turn ahead
+  92: Turn left
+  93: Turn right
+  94: Curve
+  95: Curve with speed advisory
+  96: Reverse turn
+  97: Reverse curve
+  98: Winding road
+  99: Hairpin curve
+  100: Trucks rollover warning
+  101: Trucks rollover warning with speed advisory, Maryland
+  102: 270 degree loop
+  103: Pretzel loop, Wisconsin
+  104: Horizontal alignment
+  105: Cross roads
+  106: Side road at a perpendicular angle
+  107: Side road at an acute angle
+  108: T-junction
+  109: Y-junction
+  110: Offset roads
+  111: Circular intersection
+  112: Traffic circle
+  113: Stop ahead
+  114: Yield ahead
+  115: Traffic signal ahead
+  116: Be prepared to stop
+  117: Speed zone ahead
+  118: Merge
+  119: Road narrows
+  120: Added lane
+  121: Merging traffic
+  122: Added lane (second version)
+  123: Road narrows (second version)
+  124: Divided highway (warning)
+  125: Pass left or right
+  126: Steep hill
+  127: Steep hill percentage
+  128: Steep grade percentage, Idaho
+  129: Slippery when wet
+  130: Bicycle slippery when wet
+  131: Falling rocks, California, Vermont
+  132: Left lane ends, Maryland
+  133: One direction arrow
+  134: Railroad
+  135: Skewed railroad crossing
+  136: Light rail crossing, California
+  137: Light rail crossing (look both ways), California
+  138: Low ground clearance railroad crossing
+  139: Fire station
+  140: Children at play, NY
+  141: Bicycles
+  142: Share the road, NY
+  143: Share the road, Pennsylvania
+  144: Share the road, Maryland
+  145: Bike lane, San Francisco
+  146: Farm vehicle crossing
+  147: Motorcycle crossing
+  148: Golf cart crossing
+  149: Horse drawn vehicle ahead
+  150: Pedestrians
+  151: Cattle crossing
+  152: Migrating bears, California
+  153: Deer crossing
+  154: Duck crossing
+  155: Low clearance
+  156: Metric low clearance
+  157: Speed advisory (mph)
+  158: Speed advisory (km/h)
+  159: Exit speed advisory
+  160: Turn curve exit speed advisory
+  161: Ramp speed advisory
+  162: Curve speed advisory
+  163: Loop street, Pennsylvania
+  164: Playground
+  165: Road work ahead
+  166: Restricted weight bridge
+  167: Interchange advance guide, New Jersey
+  168: Interchange advance guide, NY
+  169: Interchange advance guide, Hawaii
+  170: Interchange advance guide, California
+  171: Interchange exit direction
+  172: Interchange exit direction, Maryland
+  173: Interchange exit direction, Virginia
+  174: Interchange exit direction, NY
+  175: Toll plaza
+  176: Toll plaza (E-ZPass only)
+  177: NYC Historic district street
+  178: NYC Midtown Manhattan street
+  179: Street sign
+  180: Los Angeles street sign
+  181: Boston street sign
+  182: Single digit interstate route shield
+  183: Off-Interstate Business Loop route shield
+  184: Three digit route shield
+  185: Michigan State Trunkline single digit shield
+  186: Two digit state highway shield, Oklahoma
+  187: Three digit state highway shield, Carolina
+  188: Two digit U.S. route shield, California
+  189: Historic Route highway shield, California
+  190: Two digit state route shield, Alabama
+  191: Two digit state highway shield, Kansas
+  192: Single digit state highway shield, Arkansas
+  193: Three digit state highway shield, Pennsylvania
+  194: Two digit state route shield, New Jersey
+  195: Four digit state route shield, New York
+  196: Two digit state route shield, California
+  197: Reference route marker, New York
+  198: Two digit state route shield, Ohio
+  199: Three digit state route with toll shield, Florida
+  200: Single digit state highway shield, Florida
+  201: Two digit county route shield
+  202: Three digit county route shield, New Jersey
+  203: Farm-to-market road shield, Texas
+  204: Missouri supplemental route shield
+  205: Brooklyn Battery Tunnel shield
+  206: New Jersey Turnpike shield
+  207: Ohio Turnpike shield
+  208: Dallas North Tollway shield
+folders:
+  Stop: 0
+  Stop, Puerto Rico (PARE): 1
+  Give way (Yield): 2
+  Yield to pedestrians: 3
+  All way plate: 4
+  Yield for pedestrians in crosswalk, NY: 5
+  Stop for pedestrians in crosswalk, NY: 6
+  Stop for pedestrians in crosswalk, Washington D.C.: 7
+  Stop for pedestrians in crosswalk, Maryland: 8
+  Maximum speed (miles per hour): 9
+  Night speed limit: 10
+  Town speed limit, NY: 11
+  Speed limit zone ahead, California: 12
+  End speed limit, NY: 13
+  End speed limit, Delaware: 14
+  Minimum speed limit: 15
+  No right turn: 16
+  No left turn: 17
+  No U-turn: 18
+  No U-turn, left turn on green arrow only, California: 19
+  Right turn only, Delaware: 20
+  Turn only lanes: 21
+  Bike lane: 22
+  Bike lane, bikes only, NY: 23
+  Only 2 or more persons per vehicle (HOV): 24
+  Do not pass: 25
+  Keep right except to pass: 26
+  Keep right: 27
+  Keep left: 28
+  Keep right (narrow version): 29
+  Do not enter: 30
+  No large trucks: 31
+  No bicycles: 32
+  Bicycle wrong way: 33
+  Bike path (no motor vehicles): 34
+  One way (vertical sign): 35
+  One way (horizontal sign): 36
+  One way, Puerto Rico (TRANSITO): 37
+  Divided highway: 38
+  Parking with time restrictions: 39
+  Parking with time restrictions, California: 40
+  Parking with time and permit restrictions, Seattle: 41
+  Parking with time restrictions, NY: 42
+  Parking with time and permit restrictions, San Francisco: 43
+  Parking with time restrictions, Maryland: 44
+  No parking: 45
+  No parking, California: 46
+  No parking, NY: 47
+  No parking, Pennsylvania: 48
+  No parking with restrictions, NY: 49
+  No parking tow zone, Chicago: 50
+  No parking bus stop: 51
+  No standing any time: 52
+  No standing any time, NY: 53
+  No standing bus stop, Philadelphia: 54
+  No standing, bus stop with bus route, NY: 55
+  No standing with time restrictions, Washington D.C.: 56
+  No standing with time restrictions, NY (Farmers Market): 57
+  No standing cars, Baltimore: 58
+  No stopping any time, NY: 59
+  No stopping any time, Philadelphia: 60
+  No stopping any time, California: 61
+  No stopping anytime tow away, San Francisco: 62
+  No stopping with time restrictions, NY: 63
+  No stops tow away zone, Seattle: 64
+  No standing except delivery trucks time restricted, NY: 65
+  No stopping any time, NY (horizontal sign): 66
+  No parking (symbol): 67
+  No parking on pavement: 68
+  Walk on left facing traffic: 69
+  Cross only at cross walks: 70
+  No hitch hiking: 71
+  Crosswalk signal instructions: 72
+  Stop for stopped school bus, NY: 73
+  No pedestrian crossing: 74
+  Bicycles left; pedestrians right: 75
+  Turning vehicles yield to pedestrians: 76
+  Red light photo violation fine sign, California: 77
+  Stop here on red, Pennsylvania: 78
+  No turn on red arrow, Maryland: 79
+  Bicycles to request green wait on line: 80
+  Road closed: 81
+  Road closed ahead: 82
+  Bridge out ahead: 83
+  School: 84
+  School speed limit ahead: 85
+  End school zone: 86
+  School speed limit when flashing: 87
+  School zone speed limit sign, Arizona: 88
+  School bus stop ahead (fluorescent green): 89
+  School bus stop ahead (yellow): 90
+  School bus turn ahead: 91
+  Turn left: 92
+  Turn right: 93
+  Curve: 94
+  Curve with speed advisory: 95
+  Reverse turn: 96
+  Reverse curve: 97
+  Winding road: 98
+  Hairpin curve: 99
+  Trucks rollover warning: 100
+  Trucks rollover warning with speed advisory, Maryland: 101
+  270 degree loop: 102
+  Pretzel loop, Wisconsin: 103
+  Horizontal alignment: 104
+  Cross roads: 105
+  Side road at a perpendicular angle: 106
+  Side road at an acute angle: 107
+  T-junction: 108
+  Y-junction: 109
+  Offset roads: 110
+  Circular intersection: 111
+  Traffic circle: 112
+  Stop ahead: 113
+  Yield ahead: 114
+  Traffic signal ahead: 115
+  Be prepared to stop: 116
+  Speed zone ahead: 117
+  Merge: 118
+  Road narrows: 119
+  Added lane: 120
+  Merging traffic: 121
+  Added lane (second version): 122
+  Road narrows (second version): 123
+  Divided highway (warning): 124
+  Pass left or right: 125
+  Steep hill: 126
+  Steep hill percentage: 127
+  Steep grade percentage, Idaho: 128
+  Slippery when wet: 129
+  Bicycle slippery when wet: 130
+  Falling rocks, California, Vermont: 131
+  Left lane ends, Maryland: 132
+  One direction arrow: 133
+  Railroad: 134
+  Skewed railroad crossing: 135
+  Light rail crossing, California: 136
+  Light rail crossing (look both ways), California: 137
+  Low ground clearance railroad crossing: 138
+  Fire station: 139
+  Children at play, NY: 140
+  Bicycles: 141
+  Share the road, NY: 142
+  Share the road, Pennsylvania: 143
+  Share the road, Maryland: 144
+  Bike lane, San Francisco: 145
+  Farm vehicle crossing: 146
+  Motorcycle crossing: 147
+  Golf cart crossing: 148
+  Horse drawn vehicle ahead: 149
+  Pedestrians: 150
+  Cattle crossing: 151
+  Migrating bears, California: 152
+  Deer crossing: 153
+  Duck crossing: 154
+  Low clearance: 155
+  Metric low clearance: 156
+  Speed advisory (mph): 157
+  Speed advisory (km/h): 158
+  Exit speed advisory: 159
+  Turn curve exit speed advisory: 160
+  Ramp speed advisory: 161
+  Curve speed advisory: 162
+  Loop street, Pennsylvania: 163
+  Playground: 164
+  Road work ahead: 165
+  Restricted weight bridge: 166
+  Interchange advance guide, New Jersey: 167
+  Interchange advance guide, NY: 168
+  Interchange advance guide, Hawaii: 169
+  Interchange advance guide, California: 170
+  Interchange exit direction: 171
+  Interchange exit direction, Maryland: 172
+  Interchange exit direction, Virginia: 173
+  Interchange exit direction, NY: 174
+  Toll plaza: 175
+  Toll plaza (E-ZPass only): 176
+  NYC Historic district street: 177
+  NYC Midtown Manhattan street: 178
+  Street sign: 179
+  Los Angeles street sign: 180
+  Boston street sign: 181
+  Single digit interstate route shield: 182
+  Off-Interstate Business Loop route shield: 183
+  Three digit route shield: 184
+  Michigan State Trunkline single digit shield: 185
+  Two digit state highway shield, Oklahoma: 186
+  Three digit state highway shield, Carolina: 187
+  Two digit U.S. route shield, California: 188
+  Historic Route highway shield, California: 189
+  Two digit state route shield, Alabama: 190
+  Two digit state highway shield, Kansas: 191
+  Single digit state highway shield, Arkansas: 192
+  Three digit state highway shield, Pennsylvania: 193
+  Two digit state route shield, New Jersey: 194
+  Four digit state route shield, New York: 195
+  Two digit state route shield, California: 196
+  Reference route marker, New York: 197
+  Two digit state route shield, Ohio: 198
+  Three digit state route with toll shield, Florida: 199
+  Single digit state highway shield, Florida: 200
+  Two digit county route shield: 201
+  Three digit county route shield, New Jersey: 202
+  Farm-to-market road shield, Texas: 203
+  Missouri supplemental route shield: 204
+  Brooklyn Battery Tunnel shield: 205
+  New Jersey Turnpike shield: 206
+  Ohio Turnpike shield: 207
+  Dallas North Tollway shield: 208
+excluded: []

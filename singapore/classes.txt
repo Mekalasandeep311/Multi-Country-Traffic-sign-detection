@@ -1,0 +1,159 @@
+Accident
+Advance Directional Sign
+Ahead only
+Ambulance
+Animals
+Barrier
+Bicycle stand
+Bus Terminus
+Bus lane (hours)
+Bus stop
+Caution
+Caution Road Works Ahead
+Children
+Confirmation Directional Sign
+Congestion
+Cross junction
+Curve Alignment Markers
+Designated pedestrian crossing
+Detour (in direction indicated)
+Detour Ahead
+Dual-carriageway ends
+Elderly or handicapped pedestrians
+Electronic Road Pricing (ERP) Zone ahead
+End of expressway
+End of school zone
+Exclusive left turn and shared left turn lane ahead
+Exit Closed Ahead
+Expressway ahead
+Fire Engine
+Flashing Amber Cross (caution, possible obstruction)
+Four waiting lanes ahead
+Gantry Sign
+Gated level crossing
+Give Way
+Give Way to pedestrians
+Give-way to buses exiting
+Green Arrow (lane open)
+Height limit (4.5m)
+Intermediate Sign
+Keep Left Unless Overtaking
+Keep left
+Lane Reduction (lane 3)
+Lane Reduction (lane 4)
+Lanes merging
+Left Turn on Red
+Left bend
+Light signals ahead
+Low flying aircraft ahead
+Mandatory Give-Way to Buses
+Merging traffic
+Must Exit
+No entry for all vehicles
+No entry for bicycles
+No entry for lorries
+No entry for motorcycles
+No entry for motorcycles and pedal cycles
+No entry for pedestrians and pedal- cycles
+No entry for vehicles carrying dangerous goods
+No entry for vehicles with 3 or more axles
+No left turn
+No overtaking
+No parking of bicycles
+No right turn
+No sounding of horn
+No stopping
+No through road (road ends in short distance)
+No through road (road on right does not lead to another road)
+No waiting
+No waiting & No loading & unloading
+One-way street
+One-way traffic
+Parking Paid
+Parking Reinforcement Camera
+Pedestrian crossing ahead
+Pedestrian crossing prohibition
+Pedestrian overpass
+Pedestrian underpass
+Plant Watering
+Rain shelter for motorcyclists
+Raised zebra crossing ahead
+Recommended Speed
+Red Cross (lane closed)
+Red Light Camera ahead
+Reduce Speed Now
+Right Turn (for specific vehicles)
+Right bend
+Road Closure (with time)
+Road Sweeping
+Road hump ahead
+Road leading to quay, river bank or sea
+Road narrows on both sides
+Road narrows on one side (left)
+Road narrows on one side (right)
+Roadside Variable Message Sign (RVMS)
+Roadworks
+Roundabout
+Series of bends
+Sharp deviation
+Side road (from left)
+Side road (from right)
+Single Lane Traffic
+Slippery road
+Slow
+Speed Check Area
+Speed Regulating Strips Ahead
+Speed limit 40 km
+Speed limit 50 km
+Speed limit 60 km
+Speed limit 70 km
+Speed limit 80 km
+Speed limit 90 km
+Split traffic
+Staggered junction
+Start of expressway
+Start of school zone
+Steep downward slope
+Steep upward slope
+Stop
+Stop for children
+T junction
+Taxi stand
+Taxi stop
+Tow Away Zone
+Traffic Information Display (TID)
+Traffic Sign Display (TSD)
+Traffic signals operating hours
+Travel Time Display (TTD)
+Tree Pruning
+Tunnel Ahead
+Turn left ahead
+Turn left only
+Turn on lights and FM Radio
+Turn right ahead
+Turn right only
+Turning lanes ahead
+Two-way traffic across one-way carriageway
+Two-way traffic ahead
+U-turn ahead
+U-turn ahead from opposite direction
+U-turn facility ahead
+U-turn sign with vehicle weight restriction
+Uneven road
+Ungated level crossing
+Vehicle Breakdown
+Vehicle breakdown sign
+Waiting Area for Motorycyclists
+Waiting lanes ahead
+Weight limit (10 tonnes)
+Wheel Clamp Zone
+White walking sticks
+Width limit (2.3m)
+Work Access
+Works Ahead
+Y junction (from left)
+Y junction (from right and left)
+Y junction (from right)
+Lane Shift Right
+No Parking
+No riding of pedal-cycles

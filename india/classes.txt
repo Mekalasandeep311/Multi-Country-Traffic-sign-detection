@@ -1,0 +1,102 @@
+Stop sign
+Give way sign
+Compulsory left turn
+Compulsory right turn
+One way
+No entry
+Priority for oncoming traffic
+All motor vehicles prohibited
+Right turn prohibited
+Left turn prohibited
+U turn prohibited
+Overtaking Prohibited
+Speed Limit
+No parking
+No stopping or standing
+Height Limit
+Compulsory ahead
+Compulsory ahead or turn right
+Compulsory ahead or turn left
+Compulsory keep left
+Compulsory cycle track
+Compulsory sound horn
+Compulsory minimum speed
+Restriction ends
+Right hand curve
+Left hand curve
+Right hair pin bend
+Left hair pin bend
+Right reverse bend
+Left Reverse bend
+Steep Ascent
+Steep Descent
+Narrow road ahead
+Road widens ahead
+Narrow bridge
+Slippery Road
+Loose gravel
+Cycle crossing
+Pedestrian crossing
+School ahead
+Traffic signal
+Cattle
+Ferry
+Falling rocks
+Dangerous dip
+Hump or Rough road
+Barrier ahead
+Gap in median
+Cross road
+Side road left
+Side road right
+Y Intersection side
+Y intersection
+T intersection
+Staggered intersection
+Round about
+Guarded level crossing
+Unguarded level crossing
+Riverbank
+Men at work
+Advance direction sign
+Rotatory intersection
+Advance direction sign kms
+Direction sign
+Confirmatory sign
+Place identification sign
+Petrol pump
+Hospital
+First aid post
+Eating place
+Light Refreshment
+Resting place
+No thorough road
+Railway station
+Bus stop
+Tunnel ahead
+Pedestrian subway
+Park both sides
+Parking lot cycles
+Parking lot Taxis
+Parking lot Auto rickshaws
+Parking lot 2 wheelers
+Merging traffic from left
+Horn prohibited
+U Turn
+Parking lot car
+Pedestrians prohibited
+Accident prone zone
+Two way
+Speed Bump
+Chevron sign left
+Pass either side
+Load limit
+Go Slow
+Truck prohibited
+Chevron sign right
+National highway route marker
+Children at play
+Do not litter
+Other sign (not in rule book)
+Charging station
+Width limit

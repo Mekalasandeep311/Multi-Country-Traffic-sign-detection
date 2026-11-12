@@ -1,0 +1,7 @@
+model: india_v3_best.pt (india)  imgsz: 1280  conf>=0.25
+frame: 1847.jpg  size: 1920x1080
+detections: 4
+  Direction sign                                     conf 0.91  box [661,390,728,503]
+  T intersection                                     conf 0.89  box [228,411,289,469]
+  Right hand curve                                   conf 0.76  box [1536,353,1610,456]
+  Side road left                                     conf 0.54  box [1347,416,1396,479]

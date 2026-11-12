@@ -1,0 +1,13 @@
+# weights, data, outputs
+*.pt
+*.onnx
+*.engine
+*.mp4
+*.avi
+runs/
+logs/
+data/
+datasets/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

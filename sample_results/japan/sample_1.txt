@@ -1,0 +1,6 @@
+model: best.pt (japan)  imgsz: 1920  conf>=0.25
+frame: real_N14074.jpg  size: 1920x1080
+detections: 3
+  Rest Area - Parking - Fuel Stand                   conf 0.90  box [876,566,939,604]
+  Curve Ahead                                        conf 0.88  box [727,616,753,648]
+  Emergency Telephone                                conf 0.78  box [91,300,198,403]

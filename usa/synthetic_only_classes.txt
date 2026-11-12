@@ -1,0 +1,144 @@
+Stop, Puerto Rico (PARE)
+Yield to pedestrians
+All way plate
+Yield for pedestrians in crosswalk, NY
+Stop for pedestrians in crosswalk, NY
+Stop for pedestrians in crosswalk, Washington D.C.
+Stop for pedestrians in crosswalk, Maryland
+Night speed limit
+Town speed limit, NY
+End speed limit, NY
+End speed limit, Delaware
+Minimum speed limit
+Right turn only, Delaware
+Turn only lanes
+Bike lane, bikes only, NY
+Only 2 or more persons per vehicle (HOV)
+Do not pass
+Keep right except to pass
+Bicycle wrong way
+Bike path (no motor vehicles)
+One way, Puerto Rico (TRANSITO)
+Divided highway
+Parking with time restrictions
+Parking with time restrictions, California
+Parking with time and permit restrictions, Seattle
+Parking with time restrictions, NY
+Parking with time and permit restrictions, San Francisco
+Parking with time restrictions, Maryland
+No parking, California
+No parking, NY
+No parking, Pennsylvania
+No parking with restrictions, NY
+No parking tow zone, Chicago
+No parking bus stop
+No standing any time
+No standing any time, NY
+No standing bus stop, Philadelphia
+No standing, bus stop with bus route, NY
+No standing with time restrictions, Washington D.C.
+No standing with time restrictions, NY (Farmers Market)
+No standing cars, Baltimore
+No stopping any time, NY
+No stopping any time, Philadelphia
+No stopping any time, California
+No stopping anytime tow away, San Francisco
+No stopping with time restrictions, NY
+No stops tow away zone, Seattle
+No standing except delivery trucks time restricted, NY
+No stopping any time, NY (horizontal sign)
+No parking on pavement
+Walk on left facing traffic
+Cross only at cross walks
+No hitch hiking
+Crosswalk signal instructions
+Stop for stopped school bus, NY
+Bicycles left; pedestrians right
+Red light photo violation fine sign, California
+Bicycles to request green wait on line
+Road closed
+Road closed ahead
+Bridge out ahead
+End school zone
+School speed limit when flashing
+School zone speed limit sign, Arizona
+School bus stop ahead (fluorescent green)
+School bus stop ahead (yellow)
+School bus turn ahead
+Trucks rollover warning
+Trucks rollover warning with speed advisory, Maryland
+Pretzel loop, Wisconsin
+Traffic circle
+Yield ahead
+Be prepared to stop
+Speed zone ahead
+Merging traffic
+Added lane (second version)
+Divided highway (warning)
+Steep hill percentage
+Steep grade percentage, Idaho
+Bicycle slippery when wet
+Left lane ends, Maryland
+Light rail crossing, California
+Light rail crossing (look both ways), California
+Low ground clearance railroad crossing
+Children at play, NY
+Share the road, NY
+Share the road, Pennsylvania
+Share the road, Maryland
+Bike lane, San Francisco
+Farm vehicle crossing
+Motorcycle crossing
+Golf cart crossing
+Horse drawn vehicle ahead
+Migrating bears, California
+Duck crossing
+Metric low clearance
+Speed advisory (km/h)
+Exit speed advisory
+Turn curve exit speed advisory
+Ramp speed advisory
+Curve speed advisory
+Loop street, Pennsylvania
+Restricted weight bridge
+Interchange advance guide, New Jersey
+Interchange advance guide, NY
+Interchange advance guide, Hawaii
+Interchange advance guide, California
+Interchange exit direction
+Interchange exit direction, Maryland
+Interchange exit direction, Virginia
+Interchange exit direction, NY
+Toll plaza
+Toll plaza (E-ZPass only)
+NYC Historic district street
+NYC Midtown Manhattan street
+Street sign
+Los Angeles street sign
+Boston street sign
+Off-Interstate Business Loop route shield
+Three digit route shield
+Michigan State Trunkline single digit shield
+Two digit state highway shield, Oklahoma
+Three digit state highway shield, Carolina
+Two digit U.S. route shield, California
+Historic Route highway shield, California
+Two digit state route shield, Alabama
+Two digit state highway shield, Kansas
+Single digit state highway shield, Arkansas
+Three digit state highway shield, Pennsylvania
+Two digit state route shield, New Jersey
+Four digit state route shield, New York
+Two digit state route shield, California
+Reference route marker, New York
+Two digit state route shield, Ohio
+Three digit state route with toll shield, Florida
+Single digit state highway shield, Florida
+Two digit county route shield
+Three digit county route shield, New Jersey
+Farm-to-market road shield, Texas
+Missouri supplemental route shield
+Brooklyn Battery Tunnel shield
+New Jersey Turnpike shield
+Ohio Turnpike shield
+Dallas North Tollway shield

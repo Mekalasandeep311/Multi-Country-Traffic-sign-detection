@@ -1,0 +1,8 @@
+model: us_signs_v3_best.pt (usa)  imgsz: 1920  conf>=0.25
+frame: real_video2_0__frame_002891.jpg  size: 1280x720
+detections: 5
+  Pedestrians                                        conf 0.96  box [612,220,647,256]
+  Road work ahead                                    conf 0.93  box [983,225,1063,306]
+  Pedestrians                                        conf 0.93  box [378,215,413,251]
+  Pedestrians                                        conf 0.92  box [135,289,172,325]
+  Pedestrians                                        conf 0.90  box [815,316,850,352]

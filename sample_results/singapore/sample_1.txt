@@ -1,0 +1,8 @@
+model: best.pt (singapore)  imgsz: 1920  conf>=0.25
+frame: real_67.jpg  size: 1920x1080
+detections: 5
+  Turn right ahead                                   conf 0.95  box [1721,454,1793,607]
+  Turning lanes ahead                                conf 0.41  box [632,572,695,648]
+  Turning lanes ahead                                conf 0.38  box [549,572,695,608]
+  Turning lanes ahead                                conf 0.37  box [549,576,619,648]
+  Turn right ahead                                   conf 0.36  box [1421,563,1447,635]

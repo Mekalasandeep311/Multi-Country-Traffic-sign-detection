@@ -1,0 +1,8 @@
+model: india_v3_best.pt (india)  imgsz: 1280  conf>=0.25
+frame: 2541.jpg  size: 1920x1080
+detections: 5
+  T intersection                                     conf 0.97  box [560,232,756,407]
+  Traffic signal                                     conf 0.95  box [809,390,920,489]
+  No parking                                         conf 0.95  box [36,246,234,448]
+  Right reverse bend                                 conf 0.94  box [717,500,762,551]
+  Stop sign                                          conf 0.90  box [1611,435,1700,523]

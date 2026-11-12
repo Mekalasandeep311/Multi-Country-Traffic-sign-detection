@@ -1,0 +1,6 @@
+model: best.pt (japan)  imgsz: 1920  conf>=0.25
+frame: real_N16342.jpg  size: 1920x1080
+detections: 3
+  Prohibited from Proceeding except in Direction Indicated conf 0.92  box [1457,509,1511,564]
+  Prohibited from Proceeding except in Direction Indicated conf 0.79  box [840,620,856,639]
+  No U-turn                                          conf 0.78  box [1456,583,1513,639]

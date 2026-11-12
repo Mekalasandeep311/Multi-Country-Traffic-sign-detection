@@ -1,0 +1,101 @@
+Accident
+Ahead only
+Ambulance
+Animals
+Barrier
+Bicycle stand
+Bus stop
+Caution Road Works Ahead
+Children
+Congestion
+Cross junction
+Detour (in direction indicated)
+Detour Ahead
+Dual-carriageway ends
+End of school zone
+Exclusive left turn and shared left turn lane ahead
+Exit Closed Ahead
+Expressway ahead
+Fire Engine
+Flashing Amber Cross (caution, possible obstruction)
+Gantry Sign
+Gated level crossing
+Give-way to buses exiting
+Green Arrow (lane open)
+Intermediate Sign
+Keep Left Unless Overtaking
+Lane Reduction (lane 3)
+Lane Reduction (lane 4)
+Left Turn on Red
+Low flying aircraft ahead
+Merging traffic
+Must Exit
+No entry for bicycles
+No entry for lorries
+No entry for motorcycles and pedal cycles
+No entry for pedestrians and pedal- cycles
+No entry for vehicles carrying dangerous goods
+No entry for vehicles with 3 or more axles
+No overtaking
+No parking of bicycles
+No sounding of horn
+No through road (road ends in short distance)
+No through road (road on right does not lead to another road)
+No waiting
+One-way traffic
+Pedestrian overpass
+Plant Watering
+Recommended Speed
+Red Cross (lane closed)
+Red Light Camera ahead
+Right Turn (for specific vehicles)
+Road Sweeping
+Road leading to quay, river bank or sea
+Road narrows on both sides
+Road narrows on one side (left)
+Road narrows on one side (right)
+Roadside Variable Message Sign (RVMS)
+Roadworks
+Roundabout
+Series of bends
+Sharp deviation
+Side road (from left)
+Side road (from right)
+Single Lane Traffic
+Slippery road
+Speed Check Area
+Speed limit 80 km
+Speed limit 90 km
+Staggered junction
+Start of expressway
+Start of school zone
+Steep upward slope
+Stop for children
+Taxi stand
+Tow Away Zone
+Traffic Information Display (TID)
+Traffic Sign Display (TSD)
+Traffic signals operating hours
+Travel Time Display (TTD)
+Tree Pruning
+Tunnel Ahead
+Turn on lights and FM Radio
+Two-way traffic across one-way carriageway
+Two-way traffic ahead
+U-turn ahead
+U-turn ahead from opposite direction
+Uneven road
+Ungated level crossing
+Vehicle Breakdown
+Vehicle breakdown sign
+Waiting lanes ahead
+Weight limit (10 tonnes)
+Wheel Clamp Zone
+White walking sticks
+Width limit (2.3m)
+Y junction (from left)
+Y junction (from right and left)
+Y junction (from right)
+Lane Shift Right
+No Parking
+No riding of pedal-cycles

@@ -1,0 +1,6 @@
+model: us_signs_v3_best.pt (usa)  imgsz: 1920  conf>=0.25
+frame: real_video3_5__frame_003791.jpg  size: 1280x720
+detections: 3
+  No right turn                                      conf 0.95  box [894,395,962,464]
+  No bicycles                                        conf 0.94  box [1060,529,1085,552]
+  No pedestrian crossing                             conf 0.90  box [1059,504,1085,529]

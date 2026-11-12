@@ -1,0 +1,6 @@
+model: best.pt (singapore)  imgsz: 1920  conf>=0.25
+frame: real_64.jpg  size: 1920x1080
+detections: 3
+  Turn right ahead                                   conf 0.87  box [1489,581,1513,645]
+  Advance Directional Sign                           conf 0.82  box [142,587,253,628]
+  Turning lanes ahead                                conf 0.27  box [780,590,836,655]

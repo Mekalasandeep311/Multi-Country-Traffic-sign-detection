@@ -1,0 +1,65 @@
+TRAFFIC-SIGN DETECTION - RESULTS (India, Japan, Singapore, USA)
+===============================================================
+All models: YOLO11s, Ultralytics 8.4.174, trained on SLURM (NVIDIA A40 / H200).
+Test sets are REAL frames never used for training. P = precision, R = recall.
+mAP50 = mean AP at IoU 0.5, mAP50-95 = mean AP over IoU 0.5..0.95.
+
+
+1. FINAL MODEL PER COUNTRY
+--------------------------
+Country    Classes  Model        imgsz  Test set                          P      R      mAP50  mAP50-95
+India      101      india_v3     1280   real held-out test images         0.890  0.876  0.901  0.763
+India      101      india_v3     1280   TiHAN test-bed frames (held out)  0.721  0.710  0.658  0.580
+Japan      120      jp_signs_v2  1920   607 real val frames               0.854  -      0.924  0.830
+Singapore  159      sg_signs_v2  640    real-only val tiles               0.766  0.887  0.871  0.815
+USA        209      us_signs_v3  1920   real drive frames (val)           0.867  0.867  0.940  0.855
+USA        209      us_signs_v3  1920   Mapillary MTSD test (never seen)  0.935  0.846  0.931  0.788
+
+Notes
+- India and USA also have a hidden "Other sign" class (not scored, not displayed).
+- Japan uses per-class confidence thresholds (thresholds.json) for video.
+- Singapore also has a real-time model at 512x288 (ONNX): real-val mAP50 0.563
+  (the full-resolution model at 512x288 gets only 0.353).
+- Full-frame precision is pulled down by signs that exist in a frame but are not labelled.
+
+
+2. INDIA BENCHMARK (same data, same scorer, 1280 px)
+----------------------------------------------------
+Scorer: COCO-style matching (highest confidence first), 1000-sample bootstrap 95 % CI.
+Latency: one NVIDIA A40, FP16, batch 1.
+
+Model                     Params(M)  real test mAP50  mAP50-95  test-bed mAP50  mAP50-95  infer ms  p95 total ms
+Ours v3 (YOLO11s)          9.47       0.901           0.763     0.658           0.580     5.24      8.33
+Ours v2 (YOLO11s)          9.47       0.904           0.765     0.627           0.545     5.51      8.87
+Ours v1 (YOLO11s)          9.47       0.899           0.763     0.399           0.373     5.83      8.96
+YOLOv8s                   11.18       0.894           0.748     0.669           0.560     4.16      8.04
+YOLOv10s                   8.15       0.876           0.746     0.662           0.557     5.11     10.87
+YOLO11s (plain recipe)     9.47       0.889           0.757     0.641           0.544     5.43      8.95
+YOLO11s + P2 head          9.68       0.859           0.739     0.641           0.556     6.97     12.83
+YOLO26-L                  26.33       0.895           0.752     0.668           0.552     9.86     14.32
+YOLO26-L + P2 head        25.84       0.892           0.742     0.652           0.560    13.33     19.24
+RT-DETR-L                 33.02       0.889           0.640     0.706           0.515    30.46     35.10
+Old model (YOLO26-L P2, 640 px, earlier data)        -                -        0.299           0.260    13.95     18.33
+Old model at 1280 px                                 -                -        0.361           0.313    14.57     20.12
+
+Findings
+- The data pipeline matters more than the architecture: v3 beats the old model on the test bed
+  0.658 vs 0.361 mAP50 at the same input size.
+- The P2 (small-object) head does not help: YOLO11s -3.0 mAP50, YOLO26-L -0.3.
+- YOLO11s gives the best accuracy / speed balance (about 120 FPS end-to-end on an A40).
+
+
+3. VERSION HISTORY
+------------------
+India      v1 real data, cleaned -> v2 + test-bed video mining (new classes: width limit,
+           height limit, charging station) -> v3 short fine-tune for "No parking"
+Japan      v2 final; a later fine-tune (v2_ft) was worse on the same val (mAP50-95 0.792 vs 0.830)
+Singapore  synthetic-only v1 (many false positives on real video) -> v2 real + synthetic tiles
+USA        v2 (0.918 / 0.844) -> v3 + "Other sign" class (0.940 / 0.855, final)
+           -> v4 + reviewed video tracks: worse on held-out data, so v3 stays final
+
+
+4. SAMPLE RESULTS
+-----------------
+sample_results/<country>/sample_N.jpg   annotated held-out frame (conf >= 0.25)
+sample_results/<country>/sample_N.txt   detections: class, confidence, box [x0,y0,x1,y1]

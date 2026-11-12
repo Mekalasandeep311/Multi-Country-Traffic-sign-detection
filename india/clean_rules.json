@@ -1,0 +1,35 @@
+{
+ "notes": "per-class cleaning rules from eye review 2026-11-03; applied when building standard_india",
+ "drop_check_pred": {
+  "6": [
+   "m006"
+  ],
+  "51": [
+   "m051"
+  ]
+ },
+ "arrow_side_keep": {
+  "2": "left"
+ },
+ "group_decisions": {
+  "P": "review/P",
+  "INFO": "review/INFO",
+  "8": "review/c8"
+ },
+ "drop_web": [
+  26,
+  27,
+  29,
+  75
+ ],
+ "audit_after_training": [
+  10,
+  25,
+  52,
+  53,
+  62,
+  63,
+  84,
+  89
+ ]
+}

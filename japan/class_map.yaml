@@ -1,0 +1,246 @@
+names:
+  0: Advance Notice of Regulation (type 1)
+  1: Advance Notice of Regulation (type 2)
+  2: Angle Parking
+  3: Bicycle Crossing Lane
+  4: Bicycles Only (path)
+  5: Bumps or Bumpy Road
+  6: Caution (general)
+  7: Center Line
+  8: Curve Ahead
+  9: Deer Crossing
+  10: Designated Area of Road Where for Motor Vehicles Equipped for Towing Must Use
+    the Left-most on Traffic Lane of Limited Highways
+  11: Designates Lane for Destination
+  12: Destination & Direction (type 1)
+  13: Destination & Direction (type 2)
+  14: Destination & Direction (type 3)
+  15: Destination & Distance
+  16: Downgrade or Decline
+  17: Driving on Tracks Permitted
+  18: Elderly Driver
+  19: Emergency Parking
+  20: Emergency Telephone
+  21: End of control (applies to sign below)
+  22: End of control zone
+  23: Entry into Railway Track Beds Allowed
+  24: Exclusive Traffic Lanes
+  25: Expressway Entrance
+  26: Expressway Exit
+  27: Fallen or Falling Rocks
+  28: Fire Hydrant
+  29: Handicapped Driver
+  30: Handicapped Driver-Passenger
+  31: Hearing Impaired Driver
+  32: Horn Section
+  33: Hours Regulated
+  34: Intersection Ahead
+  35: Maximum Height
+  36: Maximum Speed
+  37: Maximum Weight
+  38: Maximum Width
+  39: Merge
+  40: Method for Motorized Bicycles to Turn Right (by Turning in Small Radius)
+  41: Method for Motorized Bicycles to Turn Right (in Two Stages)
+  42: Minimum Speed
+  43: Motor Vehicles Only
+  44: Multiple Permitted Vehicles Only
+  45: National Route Marker and Highway Signs
+  46: New Driver
+  47: No Crossing by Pedestrians
+  48: No Crossing by Vehicles
+  49: No Overtaking
+  50: No Parking
+  51: No Stopping or Parking
+  52: No U-turn
+  53: Number of Lanes Reduced
+  54: One Way
+  55: One Way for Bicycles and Specified Small Motorized Bicycles
+  56: Parallel Parking
+  57: Parallel Riding Permitted
+  58: Parking Area
+  59: Parking of Vehicles Bearing Elderly and Special-needs Driver Marks Allowed
+  60: Pedestrian Crossing
+  61: Pedestrian Crossing and Bicycle Crossing Lane
+  62: Pedestrians and Bicycles Only (path)
+  63: Pedestrians Only
+  64: Permitted Vehicles Only (Buses)
+  65: Permitted Vehicles Only (Taxis)
+  66: Permitted Vehicles Only (Trucks)
+  67: Perpendicular Parking
+  68: Preferred Bus Lane
+  69: Prevailing Side Wind
+  70: Priority Road
+  71: Priority Road Ahead
+  72: Prohibited from Moving onto Right Side of Road for Overtaking
+  73: Prohibited from Proceeding except in Direction Indicated
+  74: Prohibition of Vehicle Entry
+  75: Raccoon Crossing
+  76: Rail Road Crossing Ahead
+  77: Rest Area
+  78: Rest Area - Parking - Fuel Stand
+  79: Road Closed to Bicycles and Specified Motorized Bicycles
+  80: Road Closed to Large Motorcycles and Standard Motorcycles Carrying a Passenger
+  81: Road Closed to Large Passenger Motor Vehicles etc
+  82: Road Closed to Large Trucks etc
+  83: Road Closed to Light Road Vehicles Excluding Bicycles
+  84: Road Closed to Motor Vehicles Excluding Two-wheeled Motor Vehicles
+  85: Road Closed to Multiple Vehicles
+  86: Road Closed to Pedestrians
+  87: Road Closed to Trucks with Maximum Load Capacity Larger than Specific Amount
+  88: Road Closed to Two-wheeled Motor Vehicles and Motorized Bicycles
+  89: Road Closed to Vehicles
+  90: Road Closed to Vehicles Loaded with Hazardous Materials
+  91: Road Closed to Vehicles without Tire Chains
+  92: Road Construction
+  93: Roadway Narrows
+  94: Rotary
+  95: Safety Zone
+  96: School Zone
+  97: Slippery Road
+  98: Slow
+  99: Slower Traffic Keep Left
+  100: Standard Bicycles and Pedestrians Only
+  101: Start of control zone
+  102: Stop
+  103: Stopping Allowed
+  104: Stopping Line
+  105: Stopping of Vehicles Bearing Elderly and Special-needs Driver Marks Allowed
+  106: Time-restricted Parking Area
+  107: Traffic Distribution by Direction of Proceeding
+  108: Traffic Distribution of Certain Types of Vehicles
+  109: Traffic Distribution of Motor Vehicles Equipped for Towing on National Expressways
+  110: Traffic Distribution of Vehicles
+  111: Traffic Lanes Exclusive for Standard Bicycles
+  112: Traffic Signal Ahead
+  113: Traveling Abreast Allowed
+  114: Trolley Crossing Ahead
+  115: Two Step Turn Required for Mopeds
+  116: Two-Way Traffic
+  117: Upgrade or Incline
+  118: Vehicles for Disaster Management Only
+  119: Within control zone
+folders:
+  Advance Notice of Regulation (type 1): 0
+  Advance Notice of Regulation (type 2): 1
+  Angle Parking: 2
+  Bicycle Crossing Lane: 3
+  Bicycles Only (path): 4
+  Bumps or Bumpy Road: 5
+  Caution (general): 6
+  Center Line: 7
+  Curve Ahead: 8
+  Deer Crossing: 9
+  ? Designated Area of Road Where for Motor Vehicles Equipped for Towing Must Use
+    the Left-most on Traffic Lane of Limited Highways
+  : 10
+  Designates Lane for Destination: 11
+  Destination & Direction (type 1): 12
+  Destination & Direction (type 2): 13
+  Destination & Direction (type 3): 14
+  Destination & Distance: 15
+  Downgrade or Decline: 16
+  Driving on Tracks Permitted: 17
+  Elderly Driver: 18
+  Emergency Parking: 19
+  Emergency Telephone: 20
+  End of control (applies to sign below): 21
+  End of control zone: 22
+  Entry into Railway Track Beds Allowed: 23
+  Exclusive Traffic Lanes: 24
+  Expressway Entrance: 25
+  Expressway Exit: 26
+  Fallen or Falling Rocks: 27
+  Fire Hydrant: 28
+  Handicapped Driver: 29
+  Handicapped Driver-Passenger: 30
+  Hearing Impaired Driver: 31
+  Horn Section: 32
+  Hours Regulated: 33
+  Intersection Ahead: 34
+  Maximum Height: 35
+  Maximum Speed: 36
+  Maximum Weight: 37
+  Maximum Width: 38
+  Merge: 39
+  Method for Motorized Bicycles to Turn Right (by Turning in Small Radius): 40
+  Method for Motorized Bicycles to Turn Right (in Two Stages): 41
+  Minimum Speed: 42
+  Motor Vehicles Only: 43
+  Multiple Permitted Vehicles Only: 44
+  National Route Marker and Highway Signs: 45
+  New Driver: 46
+  No Crossing by Pedestrians: 47
+  No Crossing by Vehicles: 48
+  No Overtaking: 49
+  No Parking: 50
+  No Stopping or Parking: 51
+  No U-turn: 52
+  Number of Lanes Reduced: 53
+  One Way: 54
+  One Way for Bicycles and Specified Small Motorized Bicycles: 55
+  Parallel Parking: 56
+  Parallel Riding Permitted: 57
+  Parking Area: 58
+  Parking of Vehicles Bearing Elderly and Special-needs Driver Marks Allowed: 59
+  Pedestrian Crossing: 60
+  Pedestrian Crossing and Bicycle Crossing Lane: 61
+  Pedestrians and Bicycles Only (path): 62
+  Pedestrians Only: 63
+  Permitted Vehicles Only (Buses): 64
+  Permitted Vehicles Only (Taxis): 65
+  Permitted Vehicles Only (Trucks): 66
+  Perpendicular Parking: 67
+  Preferred Bus Lane: 68
+  Prevailing Side Wind: 69
+  Priority Road: 70
+  Priority Road Ahead: 71
+  Prohibited from Moving onto Right Side of Road for Overtaking: 72
+  Prohibited from Proceeding except in Direction Indicated: 73
+  Prohibition of Vehicle Entry: 74
+  Raccoon Crossing: 75
+  Rail Road Crossing Ahead: 76
+  Rest Area: 78
+  Rest Area - Parking - Fuel Stand: 78
+  Road Closed to Bicycles and Specified Motorized Bicycles: 79
+  Road Closed to Large Motorcycles and Standard Motorcycles Carrying a Passenger: 80
+  Road Closed to Large Passenger Motor Vehicles etc: 81
+  Road Closed to Large Trucks etc: 82
+  Road Closed to Light Road Vehicles Excluding Bicycles: 83
+  Road Closed to Motor Vehicles Excluding Two-wheeled Motor Vehicles: 84
+  Road Closed to Multiple Vehicles: 85
+  Road Closed to Pedestrians: 86
+  Road Closed to Trucks with Maximum Load Capacity Larger than Specific Amount: 87
+  Road Closed to Two-wheeled Motor Vehicles and Motorized Bicycles: 88
+  Road Closed to Vehicles: 89
+  Road Closed to Vehicles Loaded with Hazardous Materials: 90
+  Road Closed to Vehicles without Tire Chains: 91
+  Road Construction: 92
+  Roadway Narrows: 93
+  Rotary: 94
+  Safety Zone: 95
+  School Zone: 96
+  Slippery Road: 97
+  Slow: 98
+  Slower Traffic Keep Left: 99
+  Standard Bicycles and Pedestrians Only: 100
+  Start of control zone: 101
+  Stop: 102
+  Stopping Allowed: 103
+  Stopping Line: 104
+  Stopping of Vehicles Bearing Elderly and Special-needs Driver Marks Allowed: 105
+  Time-restricted Parking Area: 106
+  Traffic Distribution by Direction of Proceeding: 107
+  Traffic Distribution of Certain Types of Vehicles: 108
+  Traffic Distribution of Motor Vehicles Equipped for Towing on National Expressways: 109
+  Traffic Distribution of Vehicles: 110
+  Traffic Lanes Exclusive for Standard Bicycles: 111
+  Traffic Signal Ahead: 112
+  Traveling Abreast Allowed: 113
+  Trolley Crossing Ahead: 114
+  Two Step Turn Required for Mopeds: 115
+  Two-Way Traffic: 116
+  Upgrade or Incline: 117
+  Vehicles for Disaster Management Only: 118
+  Within control zone: 119
+excluded: []
